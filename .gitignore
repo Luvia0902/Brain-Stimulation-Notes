@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+storage_state.json
+.tmp/
+
+server.log
+.venv/
